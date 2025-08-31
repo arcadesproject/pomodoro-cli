@@ -1,7 +1,3 @@
-Here’s a professional, GitHub-ready README for your Pomodoro app in Markdown:
-
----
-
 # Pomodoro Timer CLI
 
 A command-line Pomodoro timer for Windows, implemented in C. Supports customizable work and break durations, multiple cycles, logging, task naming, and optional sound notifications. The application can run in the terminal or as a minimized GUI taskbar icon.
