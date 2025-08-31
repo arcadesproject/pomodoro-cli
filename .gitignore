@@ -1,0 +1,30 @@
+# Build artifacts
+/build/
+/Debug/
+/Release/
+*.exe
+*.obj
+*.o
+*.log
+*.sln
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE files
+*.sln
+*.vcxproj*
+*.user
+*.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Remove logs
+pomodoro_log.txt
+
+# clang-tidy
+.clang-tidy
